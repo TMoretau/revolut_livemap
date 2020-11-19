@@ -2,6 +2,8 @@
 
 A simple & dirty project to display revolut transactions as seen on their website homepage built with VueJS and some brain-cells.
 
+[Live version](https://revolutlivemap.herokuapp.com/)
+
 ## Project setup
 ```
 npm install
